@@ -1,7 +1,7 @@
 
 <h1> 👋 Hi, I’m Mallikarjun Mathapati</h1>
 </br>
-<h6>Welcome to my GitHub repository! Here you will find a collection of projects showcasing my skills as a Front-End Developer and UX Designer. I am passionate about creating intuitive user experiences and crafting visually appealing web applications. This README provides an overview of my background, skills, and some notable projects.</h6>
+<h5>Welcome to my GitHub repository! Here you will find a collection of projects showcasing my skills as a Front-End Developer and UX Designer. I am passionate about creating intuitive user experiences and crafting visually appealing web applications. This README provides an overview of my background, skills, and some notable projects.</h5>
 👀 I’m interested in Coding and Designing
 <br/>
 🌱 I’m currently learning Advance React.js
