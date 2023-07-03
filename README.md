@@ -1,9 +1,10 @@
 
 <h1>- 👋 Hi, I’m Mallikarjun Mathapati</h1>>
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+</br>
+<h6>Welcome to my GitHub repository! Here you will find a collection of projects showcasing my skills as a Front-End Developer and UX Designer. I am passionate about creating intuitive user experiences and crafting visually appealing web applications. This README provides an overview of my background, skills, and some notable projects.</h6>
+- 👀 I’m interested in Coding and Designing
+- 🌱 I’m currently learning Advance React.js
+- 🤝I'm open to collaborating on interesting projects as a developer And Designer
 
 <!---
 Mallikarjun-Mathapati/Mallikarjun-Mathapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
