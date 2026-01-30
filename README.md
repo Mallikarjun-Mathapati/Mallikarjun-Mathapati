@@ -1,16 +1,69 @@
+<h1 align="center">👋 Hi, I’m Mallikarjun Mathapati</h1>
+<p align="center">
+  💻 Front-End Developer • 🎨 UI/UX Designer • 🌐 MERN Stack Developer • 🚀 SaaS Builder
+</p>
 
-<h1> 👋 Hi, I’m Mallikarjun Mathapati</h1>
-</br>
+---
 
-<h5>Welcome to my GitHub repository! Here you will find a collection of projects showcasing my skills as a Front-End Developer and UX Designer. I am passionate about creating intuitive user experiences and crafting visually appealing web applications. This README provides an overview of my background, skills, and some notable projects.</h5>
-👀 I’m interested in Coding and Designing
-<br/>
-🌱 I’m currently learning Advance React.js
-<br/>
-🤝I'm open to collaborating on interesting projects as a developer And Designer.
-<h6> "I DELETED MY FIRST ACCOUNT BECAUSE I COULD NOT DEPLOY ANY TYPE OF PROJECT IN GITHUB DUE TO SOME ISSUE. BUT I CONTACTED THE GITHUB COMMUNITY, AND THEY GIVE ME SOME SOLUTION THAT HAS NOT WORKED, THATS WHY, I DELETE MY GITHUB ACCOUNT." </h6>
+## ✨ About Me
+I’m Mallikarjun Mathapati — a developer and designer focused on building modern, scalable, and user-friendly web applications.  
+I enjoy turning ideas into real products with clean UI, strong UX, and efficient development.
 
-<!---
-Mallikarjun-Mathapati/Mallikarjun-Mathapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎯 Strong focus on: Front-End, UI/UX, and Full-Stack Development  
+- 🧩 Working on: SaaS web applications, dashboards, and automation-based systems  
+- 🤝 Open to: Collaboration, freelance projects, and product development  
+
+---
+
+## 🛠️ Skills
+
+### 💡 Front-End Development
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Next.js
+- Tailwind CSS, Bootstrap
+- Responsive UI Development
+- API Integration (REST)
+
+### 🎨 UI/UX Design
+- Figma (UI Design, Wireframes, Prototypes)
+- UX Improvements and User Flow Design
+- Modern Web Design Systems
+
+### ⚙️ Back-End Development
+- Node.js, Express.js
+- MongoDB
+- Authentication & Authorization (JWT / Role-based access)
+
+### 🚀 Full-Stack / SaaS Development
+- MERN Stack Application Development
+- Admin Dashboards & User Panels
+- Payment Gateway Integration
+- SaaS Product Development & Deployment Workflows
+
+### 🧰 Tools & Platforms
+- Git, GitHub
+- VS Code
+- WordPress (Elementor, CF7)
+- Google Sheets Automations / Form Integrations
+
+---
+
+## 📌 What You’ll Find Here
+Projects and code related to:
+- ✅ React & Next.js web applications
+- ✅ SaaS UI dashboards and product features
+- ✅ Full-stack MERN applications
+- ✅ UI/UX to Development implementations
+- ✅ Automation-based client projects
+
+---
+
+## 📝 Quick Note
+I previously deleted my old GitHub account due to deployment issues.  
+Now I’m back with a better workflow and consistent project updates. 🔥
+
+---
+
+## 📬 Contact
+- 📧 Email: mallikarjun@vpatomic.com
+- 🌍 Portfolio: https://mallikarjun.vpatomic.com
