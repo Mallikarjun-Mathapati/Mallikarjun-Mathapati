@@ -19,4 +19,4 @@ I build modern, scalable, and user-friendly web applications with clean UI and s
 Open to freelance work and building products together.
 
 ## 📬 Contact
-📧 mallikarjun@vpatomic.com | 🌍 https://mallikarjun.vpatomic.com/
+📧 mallikarjun@vpatomic.com | 🌍 https://mallikarjun.tech/
